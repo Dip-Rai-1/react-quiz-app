@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dip-Rai-1/react-quiz-app/static/css/main.7ea08435.css",
+    "main.js": "/Dip-Rai-1/react-quiz-app/static/js/main.0f9d15a2.js",
+    "index.html": "/Dip-Rai-1/react-quiz-app/index.html",
+    "main.7ea08435.css.map": "/Dip-Rai-1/react-quiz-app/static/css/main.7ea08435.css.map",
+    "main.0f9d15a2.js.map": "/Dip-Rai-1/react-quiz-app/static/js/main.0f9d15a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea08435.css",
+    "static/js/main.0f9d15a2.js"
+  ]
+}
