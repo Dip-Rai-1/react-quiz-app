@@ -176,10 +176,11 @@ progress {
   color: var(--color-light);
   border-radius: 100px;
   text-align: center;
+  width: 50rem;
   padding: 2rem 0;
   font-size: 2rem;
   font-weight: 500;
-  margin-bottom: 1.6rem;
+  /* margin-bottom: 1.2rem; */
 }
 
 .result span {
