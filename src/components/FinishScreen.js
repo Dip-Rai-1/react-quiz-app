@@ -1,6 +1,10 @@
 import React from "react";
 
-function FinishScreen({ points, maxPossiblePoints, highestScore, dispatch }) {
+import { useQuiz } from "../context/QuizContext";
+
+function FinishScreen() {
+  const { points, maxPossiblePoints, highestScore, dispatch } = useQuiz();
+
   const percentage = (points / maxPossiblePoints) * 100;
   let emoji;
 
